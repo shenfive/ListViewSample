@@ -11,6 +11,7 @@
 		BAA1395B2C7DDC1F00A9793C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA1395A2C7DDC1F00A9793C /* ContentView.swift */; };
 		BAA1395D2C7DDC2000A9793C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAA1395C2C7DDC2000A9793C /* Assets.xcassets */; };
 		BAA139602C7DDC2000A9793C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAA1395F2C7DDC2000A9793C /* Preview Assets.xcassets */; };
+		BAA139672C7DEF7700A9793C /* Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA139662C7DEF7700A9793C /* Language.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BAA1395A2C7DDC1F00A9793C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BAA1395C2C7DDC2000A9793C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BAA1395F2C7DDC2000A9793C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BAA139662C7DEF7700A9793C /* Language.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Language.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				BAA1395A2C7DDC1F00A9793C /* ContentView.swift */,
 				BAA1395C2C7DDC2000A9793C /* Assets.xcassets */,
 				BAA1395E2C7DDC2000A9793C /* Preview Content */,
+				BAA139662C7DEF7700A9793C /* Language.swift */,
 			);
 			path = ListViewSample;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAA139672C7DEF7700A9793C /* Language.swift in Sources */,
 				BAA1395B2C7DDC1F00A9793C /* ContentView.swift in Sources */,
 				BAA139592C7DDC1F00A9793C /* ListViewSampleApp.swift in Sources */,
 			);
